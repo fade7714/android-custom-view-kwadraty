@@ -23,14 +23,6 @@ Aplikacja demonstracyjna na system Android, prezentująca mechanizm tworzenia **
 
 ---
 
-## 📸 Podgląd działania
-
-> Tutaj możesz wstawić zrzut ekranu ze swojego emulatora lub telefonu.
-
-![Podgląd aplikacji](link_do_obrazka.png)
-
----
-
 ## 💻 Kluczowy fragment kodu
 
 Sercem aplikacji jest nadpisana metoda `onDraw()`, która odpowiada za logikę rysowania figur:
